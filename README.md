@@ -6,6 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phellipe.dev@gmail.com)](mailto:phellipe.dev@gmail.com)
 [![StackShare Badge](https://img.shields.io/badge/StackShare-My%20Stack-green?style=flat-square&logoColor=white&link=https://stackshare.io/phellipeandrade/mystack)](https://stackshare.io/phellipeandrade/mystack)
 
-### Hi there, Phellipe here! 👋 Welcome to my profile
+### Hi there! 👋 Welcome to my profile
 
 I’m currently working from home to [SysMap](https://www.sysmap.com.br/) as Tech Lead (Typescript, React, Node).
