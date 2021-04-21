@@ -8,7 +8,7 @@
 
 ### Hi there! 👋 Welcome to my profile
 
-I’m currently working from home to [SysMap](https://www.sysmap.com.br/) as Tech Lead (Typescript, React, Node).
+I’m currently working from home as Tech Lead (Typescript, React, Node).
 
 
 <div>
