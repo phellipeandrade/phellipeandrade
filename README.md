@@ -1,51 +1,87 @@
 # Phellipe Andrade 👨‍💻  
-Tech Lead • Fullstack Developer • Software Craftsman
+**Tech Lead • Fullstack Developer • Software Craftsman**
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/phellipeandrade)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phellipe-andrade/)
-[![Gmail Badge](https://img.shields.io/badge/-phellipe.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:phellipe.dev@gmail.com)
-[![StackShare Badge](https://img.shields.io/badge/-StackShare-0690fa?style=flat-square&logo=stackshare&logoColor=white)](https://stackshare.io/phellipeandrade/mystack)
+![Header](https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+my+profile!&theme=dracula)
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub)](https://github.com/phellipeandrade)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/phellipe-andrade/)  
+[![StackShare Badge](https://img.shields.io/badge/-StackShare-0690fa?style=flat-square&logo=stackshare)](https://stackshare.io/phellipeandrade/mystack)  
+![Visitors Badge](https://komarev.com/ghpvc/?username=phellipeandrade)
+
+---
+
+## 📋 Table of Contents
+- [About Me](#about-me)  
+- [Featured Projects](#featured-projects)  
+- [Tech Stack](#tech-stack)  
+- [GitHub Stats](#github-stats)  
+- [Blog & Articles](#blog--articles)  
+- [📫 Connect With Me](#-connect-with-me)  
+- [Contribute](#contribute)  
+- [🕒 Last Updated](#last-updated)
 
 ---
 
 ## 👋 About Me
+I’m Phellipe, a Tech Lead & Fullstack Developer specialized in building high-performance, scalable distributed systems. I excel in leading engineering teams, architecting clean code, and automating CI/CD pipelines.  
+Currently studying **German**, **Japanese**, and **Piano**. I’m also an avid advocate of DevOps, automated testing, and software craftsmanship.
 
-Hi there! I'm Phellipe, a passionate **Tech Lead** and **Fullstack Developer** with a strong focus on performance, scalability, and software craftsmanship.  
-I have experience designing and building scalable distributed systems, working with modern web applications, and leading high-performance engineering teams.
+---
 
-- 🚀 Leading squads with a modern stack: **TypeScript**, **React**, **Node.js**, and more.
-- 🧠 Constant learner — currently studying **German**, **Japanese**, and **Piano**.
-- 🧪 Advocate for clean code, automated testing, and DevOps best practices.
+## 🔎 Featured Projects
+
+### [RBAC (Role-Based Access Control)](https://github.com/phellipeandrade/rbac)  
+> A TypeScript library for managing hierarchical access control in Node.js and browser environments.  
+✔ Clean API • Easy integration with Express and GraphQL • Extensive test coverage
+
+### [Discord Bot Daily](https://github.com/phellipeandrade/discord-bot-daily)  
+> An automated Discord bot that sends daily reminders and messages to community servers.  
+✅ Built with TypeScript, Discord.js • Uses cron scheduling & flexible command architecture
+
+### [Random Weighted Pick](https://github.com/phellipeandrade/random-weighted-pick)  
+> Simple utility to perform weighted random selection from datasets.  
+🎯 Lightweight, zero-dependency • Ideal for sampling tasks or implementing lotteries and raffles
 
 ---
 
 ## 🛠 Tech Stack
 
-<div style="display: inline_block">
-  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="GraphQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Kubernetes" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img alt="Electron" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<div style="display:flex;gap:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" height="30"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phellipeandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeandrade&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+## 📊 GitHub Stats & Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phellipeandrade&show_icons=true&theme=dracula&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeandrade&layout=compact&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phellipeandrade&theme=dracula)
 
 ---
 
-## 📫 Let's Connect
-
-Feel free to reach out via [email](mailto:phellipe.dev@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/phellipe-andrade/).  
-I'm open to collaboration, mentoring, and exciting new opportunities.
+## 📰 Blog & Articles
+*(Optionally integrate latest posts via RSS or GitHub Actions)*  
+- [Example Blog Post Title](#) — short teaser text...
 
 ---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/phellipe-andrade/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail)](mailto:phellipe.dev@gmail.com)
+
+---
+
+## 📘 Contribute
+Contributions are welcome! Please see my [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+---
+
+## 🕒 Last Updated
+This README was last updated on **June 19, 2025**.
