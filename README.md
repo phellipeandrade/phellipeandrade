@@ -62,7 +62,7 @@ Currently studying **German**, **Japanese**, and **Piano**. I’m also an avid a
 ## 📊 GitHub Stats & Activity  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phellipeandrade&show_icons=true&theme=dracula&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phellipeandrade&layout=compact&theme=dracula)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phellipeandrade&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=phellipeandrade&theme=dracula&hide_border=true)
 
 ---
 
