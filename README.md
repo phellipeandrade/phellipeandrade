@@ -5,6 +5,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub)](https://github.com/phellipeandrade)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/phellipe-andrade/)  
+[![Medium Badge](https://img.shields.io/badge/Medium-%40phellipeandrade-00ab6c?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@phellipeandrade)  
 [![StackShare Badge](https://img.shields.io/badge/-StackShare-0690fa?style=flat-square&logo=stackshare)](https://stackshare.io/phellipeandrade/mystack)  
 ![Visitors Badge](https://komarev.com/ghpvc/?username=phellipeandrade)
 
@@ -24,23 +25,23 @@
 
 ## 👋 About Me
 I’m Phellipe, a Tech Lead & Fullstack Developer specialized in building high-performance, scalable distributed systems. I excel in leading engineering teams, architecting clean code, and automating CI/CD pipelines.  
-Currently studying **German**, **Japanese**, and **Piano**. I’m also an avid advocate of DevOps, automated testing, and software craftsmanship.
+Currently studying **German**, **Japanese**, and **Piano**. A strong advocate for DevOps, automated testing, and software craftsmanship.
 
 ---
 
 ## 🔎 Featured Projects
 
-### [RBAC (Role-Based Access Control)](https://github.com/phellipeandrade/rbac)  
+### [RBAC (Role‑Based Access Control)](https://github.com/phellipeandrade/rbac)  
 > A TypeScript library for managing hierarchical access control in Node.js and browser environments.  
-✔ Clean API • Easy integration with Express and GraphQL • Extensive test coverage
+✔ Clean API • Easy integration with Express and GraphQL • High test coverage
 
 ### [Discord Bot Daily](https://github.com/phellipeandrade/discord-bot-daily)  
 > An automated Discord bot that sends daily reminders and messages to community servers.  
-✅ Built with TypeScript, Discord.js • Uses cron scheduling & flexible command architecture
+✅ Built with TypeScript & Discord.js • Cron‑based scheduling • Modular command architecture
 
 ### [Random Weighted Pick](https://github.com/phellipeandrade/random-weighted-pick)  
-> Simple utility to perform weighted random selection from datasets.  
-🎯 Lightweight, zero-dependency • Ideal for sampling tasks or implementing lotteries and raffles
+> Lightweight utility for performing weighted random selection from datasets.  
+🎯 Zero dependencies • Ideal for sampling, lotteries, and random selections
 
 ---
 
@@ -67,8 +68,12 @@ Currently studying **German**, **Japanese**, and **Piano**. I’m also an avid a
 ---
 
 ## 📰 Blog & Articles
-*(Optionally integrate latest posts via RSS or GitHub Actions)*  
-- [Example Blog Post Title](#) — short teaser text...
+Your Medium profile has **29 followers** and features at least one article in Portuguese:
+
+- **Keep climbing** _(Aug 26, 2019)_ — A reflective piece on persistence and growth.  
+  [Read on Medium](https://medium.com/@phellipeandrade/continue-subindo-8f06fcb0d8b0) :contentReference[oaicite:1]{index=1}
+
+*(Consider adding RSS integration via GitHub Actions if you publish more regularly.)*
 
 ---
 
@@ -78,8 +83,8 @@ Currently studying **German**, **Japanese**, and **Piano**. I’m also an avid a
 
 ---
 
-## 📘 Contribute
-Contributions are welcome! Please see my [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+## 📘 Contribute  
+Contributions are welcome! Please check out my [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ---
 
